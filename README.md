@@ -45,12 +45,19 @@
 
 ## 📂 仓库结构
 RimTavern-Community-Cards/
+
 ├── Stories/ ← 所有故事按文件夹聚合
+
 │ ├── 01_Example_Story/ ← 每个故事独立文件夹
+
 │ │ ├── README.md ← 故事简介 + 玩法提示
+
 │ │ ├── Cards/ ← 角色卡（可选）
+
 │ │ ├── WorldBooks/ ← 世界书（可选）
+
 │ │ └── Events/ ← 事件卡（可选）
+
 │ └── ...
 
 ## 🔧 需要帮助？
