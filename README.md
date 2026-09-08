@@ -24,12 +24,15 @@
 1. 进入 [`Stories/`](Stories/) 目录，浏览感兴趣的故事
 2. 打开故事文件夹，将里面的 `.json` 文件复制到：
        RimWorld/Mods/RimTavern/
+   
     ├── Cards/ ← 角色卡放这里
+   
     ├── WorldBooks/ ← 世界书放这里
+   
     └── Events/ ← 事件卡放这里
 
-3. 启动 RimWorld，在 Mod 设置页点击 **"重新加载内容文件"**
-4. 开始游戏，享受剧情！
+4. 启动 RimWorld，在 Mod 设置页点击 **"重新加载内容文件"**
+5. 开始游戏，享受剧情！
 
 ## 📤 分享你的创作
 
